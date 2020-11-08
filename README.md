@@ -1,5 +1,5 @@
--   iOS developer
-- 🎓 South Ural State University student
+  iOS developer<br>
+🎓 South Ural State University student
 
 ### My social networks:
 - LinkedIn: www.linkedin.com/in/artyomzagoskin/
