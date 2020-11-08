@@ -1,4 +1,12 @@
-### Hi there 👋
+-   iOS developer
+- 🎓 South Ural State University student
+
+### My social networks:
+- LinkedIn: www.linkedin.com/in/artyomzagoskin/
+- Twitter: https://twitter.com/MrZzzago
+- Instagram: instagram.com/tyoma_zago
+- VK: vk.com/inxel 
+
 
 <!--
 **Inxel/Inxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
