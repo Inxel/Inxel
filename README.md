@@ -8,6 +8,9 @@
 - [Instagram](https://www.instagram.com/tyoma_zago/)
 - [VK](https://www.vk.com/inxel)
 
+### Connect w/ me:
+- [Telegram](https://www.t.me/arty_zago)
+- [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=artyzago@gmail.com)
 
 <!--
 **Inxel/Inxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
