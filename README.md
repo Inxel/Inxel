@@ -3,10 +3,10 @@
 🎓 South Ural State University student
 
 ### My social networks:
-- [LinkedIn](www.linkedin.com/in/artyomzagoskin/)
-- [Twitter](https://twitter.com/MrZzzago)
-- [Instagram](www.instagram.com/tyoma_zago)
-- [VK](www.vk.com/inxel)
+- [LinkedIn](https://www.linkedin.com/in/artyomzagoskin/)
+- [Twitter](https://www.twitter.com/MrZzzago)
+- [Instagram](https://www.instagram.com/tyoma_zago/)
+- [VK](https://www.vk.com/inxel)
 
 
 <!--
