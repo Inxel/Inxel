@@ -9,7 +9,7 @@
 - [VK](https://www.vk.com/inxel)
 
 ### Connect w/ me:
-- [Telegram](https://www.t.me/arty_zago)
+- [Telegram](https://www.t.me/Artyom_Zagoskin)
 - [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=artyzago@gmail.com)
 
 <!--
