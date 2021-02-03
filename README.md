@@ -4,7 +4,9 @@
 
 ### My social networks:
 - [LinkedIn](https://www.linkedin.com/in/artyomzagoskin/)
+<!-- 
 - [Twitter](https://www.twitter.com/MrZzzago)
+-->
 - [Instagram](https://www.instagram.com/tyoma_zago/)
 - [VK](https://www.vk.com/inxel)
 
