@@ -4,11 +4,11 @@
 
 ### My social networks:
 - [LinkedIn](https://www.linkedin.com/in/artyomzagoskin/)
+- [Instagram](https://www.instagram.com/tyoma_zago/)
+- [VK](https://www.vk.com/inxel)
 <!-- 
 - [Twitter](https://www.twitter.com/MrZzzago)
 -->
-- [Instagram](https://www.instagram.com/tyoma_zago/)
-- [VK](https://www.vk.com/inxel)
 
 ### Connect w/ me:
 - [Telegram](https://www.t.me/Artyom_Zagoskin)
