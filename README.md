@@ -1,5 +1,5 @@
 ### About me:
- iOS developer<br>
+👨‍💻 iOS developer<br>
 🎓 South Ural State University student
 
 ### My social networks:
