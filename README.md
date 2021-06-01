@@ -1,14 +1,17 @@
+## Hello!
+
 ### About me:
 👨‍💻 iOS developer<br>
-🎓 South Ural State University student
+🎓 South Ural State University student<br>
+🏀 Basketball player<br>
+🏐 Volleyball player
+<!--🎓 Bachelor of software engineering-->
 
 ### My social networks:
 - [LinkedIn](https://www.linkedin.com/in/artyomzagoskin/)
 - [Instagram](https://www.instagram.com/tyoma_zago/)
 - [VK](https://www.vk.com/inxel)
-<!-- 
 - [Twitter](https://www.twitter.com/MrZzzago)
--->
 
 ### Connect w/ me:
 - [Telegram](https://www.t.me/Artyom_Zagoskin)
