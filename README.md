@@ -14,7 +14,7 @@
 - [Twitter](https://www.twitter.com/MrZzzago)
 
 ### Connect w/ me:
-- [Telegram](https://www.t.me/Artyom_Zagoskin)
+- [Telegram](https://www.t.me/Arty_Zago)
 - [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=artyzago@gmail.com)
 
 <!--
