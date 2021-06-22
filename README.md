@@ -1,9 +1,10 @@
-## Hello!
+## Hello ❣️
 
 ### About me:
-✈️ iOS developer<br>
-🏀 Basketball player<br>
-🏐 Volleyball player
+✈️ &nbsp;iOS developer<br>
+🌊 &nbsp;In love with travels<br>
+🏀 &nbsp;Basketball player<br>
+🏐 &nbsp;Volleyball player
 <!--🎓 Bachelor of software engineering-->
 
 ### My social networks:
