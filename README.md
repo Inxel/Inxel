@@ -1,8 +1,7 @@
 ## Hello!
 
 ### About me:
-👨‍💻 iOS developer<br>
-🎓 South Ural State University student<br>
+✈️ iOS developer<br>
 🏀 Basketball player<br>
 🏐 Volleyball player
 <!--🎓 Bachelor of software engineering-->
