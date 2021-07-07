@@ -4,7 +4,7 @@
 ✈️ &nbsp;iOS developer<br>
 🌊 &nbsp;In love with travels<br>
 🏀 &nbsp;Basketball player<br>
-🏐 &nbsp;Volleyball player
+🏐 &nbsp;Volleyball player<br>
 🎓 Bachelor of software engineering
 
 ### My social networks:
