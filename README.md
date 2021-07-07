@@ -10,12 +10,13 @@
 ### My social networks:
 - [LinkedIn](https://www.linkedin.com/in/artyomzagoskin/)
 - [Instagram](https://www.instagram.com/tyoma_zago/)
-- [VK](https://www.vk.com/inxel)
 - [Twitter](https://www.twitter.com/MrZzzago)
+- [Facebook](https://www.facebook.com/artyom.zagoskin.54/)
+- [VK](https://www.vk.com/inxel)
 
 ### Connect w/ me:
 - [Telegram](https://www.t.me/Arty_Zago)
-- [Gmail](https://mail.google.com/mail/?view=cm&source=mailto&to=artyzago@gmail.com)
+- [Gmail](mailto:artyzago@gmail.com)
 
 <!--
 **Inxel/Inxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
