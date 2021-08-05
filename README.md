@@ -5,7 +5,7 @@
 🌊 &nbsp;In love with travels<br>
 🏀 &nbsp;Basketball player<br>
 🏐 &nbsp;Volleyball player<br>
-🎓 Bachelor of software engineering
+🎓 &nbsp;Bachelor of software engineering
 
 ### My social networks:
 - [LinkedIn](https://www.linkedin.com/in/artyomzagoskin/)
