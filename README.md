@@ -1,10 +1,9 @@
-## Hello ❣️
+## Hi there 👋🏻 
 
 ### About me:
-✈️ &nbsp;iOS developer<br>
-🌊 &nbsp;In love with travels<br>
+✈️ &nbsp;iOS developer at Aviasales<br>
 🏀 &nbsp;Basketball player<br>
-🏐 &nbsp;Volleyball player<br>
+🌊 &nbsp;In love with travels<br>
 🎓 &nbsp;Bachelor of software engineering
 
 ### My social networks:
