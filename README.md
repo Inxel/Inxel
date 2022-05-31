@@ -1,9 +1,9 @@
-## Hi there 👋🏻 
+# Hi there 👋 
 
 ### About me:
-✈️ &nbsp;iOS developer at Aviasales<br>
+✈️ &nbsp;iOS developer at [Aviasales](https://apps.apple.com/ru/app/id498958864)<br>
+🏔 &nbsp;In love with travels<br>
 🏀 &nbsp;Basketball player<br>
-🌊 &nbsp;In love with travels<br>
 🎓 &nbsp;Bachelor of software engineering
 
 ### My social networks:
@@ -11,7 +11,6 @@
 - [Instagram](https://www.instagram.com/tyoma_zago/)
 - [Twitter](https://www.twitter.com/MrZzzago)
 - [Facebook](https://www.facebook.com/artyom.zagoskin.54/)
-- [VK](https://www.vk.com/inxel)
 
 ### Connect w/ me:
 - [Telegram](https://www.t.me/Arty_Zago)
