@@ -3,8 +3,8 @@
 ### About me:
 ✈️ &nbsp;iOS developer at [Aviasales](https://apps.apple.com/ru/app/id498958864)<br>
 🏔 &nbsp;In love with travels<br>
-🏀 &nbsp;Basketball player<br>
-🎓 &nbsp;Bachelor of software engineering
+🎓 &nbsp;Bachelor of software engineering<br>
+🏀 &nbsp;Basketball player
 
 ### My social networks:
 - [LinkedIn](https://www.linkedin.com/in/artyomzagoskin/)
