@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ### About me:
-✈️ &nbsp;iOS developer at [Aviasales](https://apps.apple.com/ru/app/id498958864)<br>
+✈️ &nbsp;iOS Engineer at [Aviasales](https://tp.media/r?marker=323001&trs=133019&p=4114&u=https%3A%2F%2Fwww.aviasales.ru) ([iOS App](https://apps.apple.com/ru/app/id498958864))<br>
 🏔 &nbsp;In love with travels<br>
 🎓 &nbsp;Bachelor of software engineering<br>
 🏀 &nbsp;Basketball player
