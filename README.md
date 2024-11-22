@@ -13,7 +13,7 @@
 - [Facebook](https://www.facebook.com/artyom.zagoskin.54/)
 
 ### Connect w/ me:
-- [Telegram](https://www.t.me/Arty_Zago)
+- [Telegram](https://www.t.me/tyoma_zago)
 - [Gmail](mailto:artyzago@gmail.com)
 
 <!--
